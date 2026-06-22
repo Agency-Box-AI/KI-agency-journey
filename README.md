@@ -1,6 +1,7 @@
 # KI-agency-journey
-Mein Weg zum Aufbau einer KI-Agentur
+My journey to building an AI agency
 
-Start: 22.06.2026
+Start: June 22, 2026
+Goal: Acquire first clients and build AI automations.
 
-Ziel: Erste Kunden gewinnen und KI-Automatisierungen bauen.
+
