@@ -10,4 +10,7 @@ Beschreibung:
 Ein Python-Programm, das automatisch auf Kundenanfragen antwortet.
 
 ### Prjekt 2.1
+Angebots-Assistent mit KI
+
+Beschreibung:
 Python Programm verbessert, um je nach Anfrage die perfekte Antwort durch KI zu geben.
