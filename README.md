@@ -9,7 +9,7 @@ Angebots-Assistent
 Beschreibung:
 Ein Python-Programm, das automatisch auf Kundenanfragen antwortet.
 
-### Prjekt 2.1
+### Projekt 2.1
 Angebots-Assistent mit KI
 
 Beschreibung:
