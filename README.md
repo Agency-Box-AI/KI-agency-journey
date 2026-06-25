@@ -1,7 +1,10 @@
-# KI-agency-journey
-My journey to building an AI agency
+# KI-Projekte
 
-Start: June 22, 2026,
-Goal: Acquire first clients and build AI automations.
+## Projekt 1
+Hallo Python
 
+## Projekt 2
+Angebots-Assistent
 
+Beschreibung:
+Ein Python-Programm, das automatisch auf Kundenanfragen antwortet.
