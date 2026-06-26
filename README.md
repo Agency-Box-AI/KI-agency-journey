@@ -1,16 +1,22 @@
-# KI-Projekte
+# KI-Agentur-Reise
 
-## Projekt 1
+## Tag 1
 Hallo Python
 
-## Projekt 2
+## Tag 2 & 2.1
 Angebots-Assistent
 
 Beschreibung:
-Ein Python-Programm, das automatisch auf Kundenanfragen antwortet.
+Automatische Antwort auf Kundenanfragen.
 
-### Projekt 2.1
-Angebots-Assistent mit KI
+## Tag 3
+Kundenverwaltung
 
 Beschreibung:
-Python Programm verbessert, um je nach Anfrage die perfekte Antwort durch KI zu geben.
+Kundendaten werden in Dictionaries gespeichert.
+
+## Tag 3.1
+Kundeneingabe
+
+Beschreibung:
+Benutzer gibt Kundendaten ein und das Programm speichert diese.
