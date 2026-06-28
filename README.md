@@ -1,56 +1,212 @@
-# KI-Agentur-Reise
+# 🚀 KI-AGENTUR-REISE
 
-Meine Reise zum Aufbau einer KI-Agentur
+Meine Reise vom Anfänger zum Entwickler von KI-Tools, Automatisierungen und später einer eigenen KI-Agentur.
 
-Beginn: 22. Juni 2026
-Ziel: Erste Kunden erwerben und KI-Automatisierungen erstellen.
+# 🎯 ZIELE
 
-## Tag 1
-Hallo Python
+- Python lernen
+- Software entwickeln
+- Git & GitHub beherrschen
+- KI-Automatisierungen erstellen
+- Erste Kunden gewinnen
+- Langfristig ein eigenes Unternehmen aufbauen
 
-Beschreibung:
-Erstes Python-Programm erstellt.
+# 📅 TAG 1 – HALLO PYTHON
 
-## Tag 2
-Angebots-Assistent
+## Projekt
+`hallo.py`
 
-Beschreibung:
-Automatische Antworten auf Kundenanfragen.
+## Beschreibung
+Mein erstes Python-Programm.
 
-## Tag 3
-Kundenverwaltung
+## Gelernt
+- Python installieren
+- Dateien erstellen
+- Programme ausführen
 
-Beschreibung:
-Kundendaten werden mit Dictionaries gespeichert.
+# 📅 TAG 2 – ANGEBOTS-ASSISTENT
 
-## Tag 3.1
-Kundeneingabe
+## Projekt
+`angebot.py`
 
-Beschreibung:
-Benutzer gibt Kundendaten selbst ein.
+## Beschreibung
+Ein Programm, das automatisch auf Kundenanfragen antwortet.
 
-## Tag 4
-Kundenliste
+## Gelernt
+- input()
+- Variablen
+- Strings
+- f-Strings
 
-Beschreibung:
+# 📅 TAG 2.1 – INTELLIGENTER ANGEBOTS-ASSISTENT
+
+## Projekt
+`angebot.py`
+
+## Beschreibung
+Der Angebots-Assistent erkennt verschiedene Anfragen und reagiert unterschiedlich.
+
+## Gelernt
+- if
+- elif
+- else
+- Bedingungen
+
+# 📅 TAG 3 – KUNDENVERWALTUNG
+
+## Projekt
+`kunden.py`
+
+## Beschreibung
+Kundendaten werden in Dictionaries gespeichert.
+
+## Gelernt
+- Dictionaries
+- Datenstrukturen
+
+# 📅 TAG 3.1 – KUNDENEINGABE
+
+## Projekt
+`kunden_eingabe.py`
+
+## Beschreibung
+Kundendaten werden vom Benutzer eingegeben und gespeichert.
+
+## Gelernt
+- Benutzereingaben
+- Dictionaries erweitern
+
+# 📅 TAG 4 – KUNDENLISTE
+
+## Projekt
+`kundenliste.py`
+
+## Beschreibung
 Mehrere Kunden werden in einer Liste gespeichert und mit einer Schleife ausgegeben.
 
-## Tag 4.1
-Kunden hinzufügen
+## Gelernt
+- Listen
+- for-Schleifen
 
-## Tag 5
+# 📅 TAG 4.1 – KUNDEN HINZUFÜGEN
 
-Dateispeicherung
+## Projekt
+`kunden_hinzufuegen.py`
 
-Beschreibung:
+## Beschreibung
+Benutzer können mehrere Kunden eingeben und verwalten.
+
+## Gelernt
+- append()
+- Schleifen
+- Listen erweitern
+
+# 📅 TAG 5 – DATEISPEICHERUNG
+
+## Projekt
+`kunden_speichern.py`
+
+## Beschreibung
 Kundendaten werden dauerhaft in einer Textdatei gespeichert.
 
-## Tag 5.1
+## Gelernt
+- Dateien erstellen
+- Daten speichern
+- with open()
 
-Kunden anzeigen
+# 📅 TAG 5.1 – KUNDEN ANZEIGEN
 
-Beschreibung:
-Gespeicherte Kundendaten werden aus einer Datei gelesen und angezeigt.
+## Projekt
+`kunden_anzeigen.py`
 
-Beschreibung:
-Benutzer können mehrere Kunden eingeben. Die Kunden werden automatisch in einer Liste gespeichert und anschließend ausgegeben.
+## Beschreibung
+Gespeicherte Kundendaten werden aus einer Datei gelesen.
+
+## Gelernt
+- Dateien lesen
+- read()
+
+# 📅 TAG 5.2 – TELEFONNUMMERN SPEICHERN
+
+## Beschreibung
+Zusätzliche Kundendaten werden gespeichert.
+
+## Gelernt
+- Mehrere Felder speichern
+
+# 📅 TAG 5.3 – MEHRERE KUNDEN SPEICHERN
+
+## Projekt
+`kunden_mehrere.py`
+
+## Beschreibung
+Mehrere Kunden können hintereinander eingegeben werden.
+
+## Gelernt
+- while-Schleifen
+- Wiederholungen
+
+# 📅 TAG 5.4 – KUNDEN ZÄHLEN
+
+## Projekt
+`kunden_zaehlen.py`
+
+## Beschreibung
+Anzahl der gespeicherten Kunden ermitteln.
+
+## Gelernt
+- len()
+- Dateien auswerten
+
+# 📅 TAG 5.5 – KUNDENSUCHE
+
+## Projekt
+`kunden_suchen.py`
+
+## Beschreibung
+Kunden anhand eines Namens suchen.
+
+## Gelernt
+- Suchfunktionen
+- String-Vergleiche
+
+# 📅 TAG 5.6 – MINI CRM
+
+## Projekt
+`mini_crm.py`
+
+## Beschreibung
+Ein kleines Kundenverwaltungssystem mit Menü.
+
+## Gelernt
+- Menüs
+- Daten speichern
+- Daten anzeigen
+- Schleifen und Bedingungen kombinieren
+
+# 🏆 AKTUELLER STAND
+
+✅ Python Grundlagen
+
+✅ GitHub
+
+✅ Git
+
+✅ Dictionaries
+
+✅ Listen
+
+✅ Schleifen
+
+✅ Bedingungen
+
+✅ Dateispeicherung
+
+✅ Mini CRM
+
+# 🎯 NÄCHSTES ZIEL
+
+- SQLite Datenbanken
+- Automatisierungen
+- KI-Anwendungen
+- Erste Business-Projekte
