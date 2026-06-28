@@ -38,5 +38,19 @@ Mehrere Kunden werden in einer Liste gespeichert und mit einer Schleife ausgegeb
 ## Tag 4.1
 Kunden hinzufügen
 
+## Tag 5
+
+Dateispeicherung
+
+Beschreibung:
+Kundendaten werden dauerhaft in einer Textdatei gespeichert.
+
+## Tag 5.1
+
+Kunden anzeigen
+
+Beschreibung:
+Gespeicherte Kundendaten werden aus einer Datei gelesen und angezeigt.
+
 Beschreibung:
 Benutzer können mehrere Kunden eingeben. Die Kunden werden automatisch in einer Liste gespeichert und anschließend ausgegeben.
